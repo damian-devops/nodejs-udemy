@@ -1,0 +1,5 @@
+nodemon
+yargs
+npm install // instala todos los paquetes cuando no tenemos el node_modules
+npm --save//installa solo dentro del proyecto
+node <archivo> --<parametro/variable> = <valor>
